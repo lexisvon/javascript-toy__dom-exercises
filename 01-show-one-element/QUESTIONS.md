@@ -18,4 +18,4 @@ The link becomes broken. The purpose of this is to addEventListener on load of t
 
 > Describe the the `addEventListener` method. (Remember that there is a specific, technical, methodical way to describe methods. Your reply should match that format.)
 
-The addEventListner attaches to 
+The addEventListner attaches to the event handler, which is when a user clicks the mouse, and when the page has loaded. 
