@@ -6,4 +6,4 @@
 
 > What are some refactoring techniques you might apply to the provided solution?
 
-Your reply here...
+Possibly creating one class related to all of them that would become fewer lines of code. 
